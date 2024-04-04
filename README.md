@@ -1,8 +1,8 @@
-******Crime Report Project*****
+******Crime Report Project*****:
 The Crime Report Project is a web application developed using PHP, HTML, CSS, and Bootstrap. It provides features for users to sign up, log in, report missing persons, submit complaints, and contact the administration.
 
 
-**Features**
+**Features**:
 User Authentication:
 
 Users can sign up for a new account.
@@ -17,7 +17,7 @@ Contact Us Form:
 
 Users can use the contact form to reach out to the administration or support team.
 
-***Technologies Used***
+***Technologies Used***:
 PHP
 HTML
 CSS
